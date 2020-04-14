@@ -1,6 +1,8 @@
 # ioterm-demo
 IOTerm 使用样例。
 
+[English](./README-EN.md)
+
 1. [基础使用](./simple)
 2. [WebSocket](./websocket)
 

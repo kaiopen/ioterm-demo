@@ -1,6 +1,8 @@
 # ioterm-demo
 Demonstrations for IOTerm.
 
+[中文版](./README.md)
+
 1. [Simple demo](./simple)
 2. [WebSocket](./websocket)
 
